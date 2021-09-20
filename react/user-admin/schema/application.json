@@ -1,0 +1,9 @@
+[
+  {
+    "name": "adminSampleReact",
+    "displayName": "Admin (React)",
+    "defaultLocale": "en_US",
+    "roles": ["uwf-client:access"],
+    "iconUrl": "http://localhost:4001/assets/images/full-screen-logo.png"
+  }
+]

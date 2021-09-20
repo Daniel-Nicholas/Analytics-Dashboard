@@ -1,0 +1,13 @@
+api-docs:
+  enabled: "true"
+logging:
+  level: "debug"
+  format: "UTF-8"
+kafka:
+  enabled: "true"
+  version: "2.2.0"
+  address: "kafka:29092"
+  bootstrap-servers:
+    - kafka:29092
+  topics:
+    applicationDataRegistration: uwf-application-data-registration

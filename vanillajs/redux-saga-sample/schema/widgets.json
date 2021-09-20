@@ -1,0 +1,9 @@
+[
+  {
+    "id": "saga-counter",
+    "element": "saga-counter",
+    "resources": {
+      "js": "http://localhost:4001/vanillajs/redux-saga-sample/dist/bundle.js"
+    }
+  }
+]

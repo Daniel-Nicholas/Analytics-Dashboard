@@ -1,0 +1,9 @@
+[
+  {
+    "id": "react-user-admin",
+    "element": "react-user-admin",
+    "resources": {
+      "js": "http://127.0.0.1:4001/react/user-admin/build/static/js/main.js"
+    }
+  }
+]

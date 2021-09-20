@@ -1,0 +1,22 @@
+{
+    "type": "default",
+    "defaultLink": "PRIMARY#1",
+    "links": [
+        {
+            "id": "PRIMARY#1",
+            "name": "User Management",
+            "tooltip": "User Management",
+            "iconUri": "neo-icon-customer",
+            "links": [
+                {
+                    "id": "PRIMARY#1SECONDARY#1",
+                    "name": "Manage Users",
+                    "tooltip": "Manage Users",
+                    "widgets": [
+                        "<react-user-admin></react-user-admin>"
+                    ]
+                }
+            ]
+        }
+    ]
+}

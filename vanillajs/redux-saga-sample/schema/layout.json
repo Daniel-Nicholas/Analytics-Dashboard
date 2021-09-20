@@ -1,0 +1,16 @@
+{
+    "type": "default",
+    "defaultLink": "counter",
+    "links": [
+        {
+            "id": "counter",
+            "name": "Counter",
+            "tooltip": "Users",
+            "iconUri": "neo-icon-acw-extend",
+            "widgets": [
+                "<saga-counter></saga-counter>"
+            ],
+            "layout": 0
+        }
+    ]
+}

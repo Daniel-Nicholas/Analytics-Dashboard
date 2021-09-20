@@ -1,0 +1,10 @@
+{
+  "name": "middlewareSample",
+  "displayName": "Middleware Sample",
+  "defaultLocale": "en_US",
+  "roles": ["uwf-client:access"],
+  "initScripts": [{
+    "src": "http://localhost:4001/vanillajs/redux-saga-sample/dist/app.init.js",
+    "type": "module"
+  }]
+}
